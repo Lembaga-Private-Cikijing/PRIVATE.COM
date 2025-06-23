@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lembaga-private-cikijing.github.io/PRIVATE.COM/sitemap.xml
